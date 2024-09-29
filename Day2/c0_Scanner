@@ -1,0 +1,11 @@
+請輸入您的姓名：康景棠\n=>換行符 啟動nextLine
+              |     |=>nextLine()
+
+                | |=>需用空的nextLine()接收
+請輸入您的年齡：20\n
+              | |==>nextInt()
+
+請輸入您的顏色：橘色\n=>換行符 啟動nextLine()
+              |   |=>nextLine()
+
+康景棠\n20\n橘色\n

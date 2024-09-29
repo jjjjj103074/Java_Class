@@ -1,7 +1,6 @@
 {
-    "java.project.sourcePaths": ["."],
+    "java.project.sourcePaths": [
+        "."
+    ],
     "java.project.referencedLibraries": [],
-
-    "java.configuration.updateBuildConfiguration": "disabled",
-    "java.errors.incompleteClasspath.severity": "ignore"
 }

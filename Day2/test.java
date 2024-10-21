@@ -4,15 +4,16 @@ import java.util.Scanner;
 
 public class test {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        int i = 0;
+        while (i <= 2) {
 
-        String a = scanner.nextLine();
-        String b = scanner.nextLine();
+            System.out.println("123");
+            i = add(i, 1);
+        }
 
-        System.out.print(a);
-        System.out.print("|");
-        System.out.print(b);
-
-        scanner.close();
+        System.out.println("done");
+    }
+    private static int add(int a, int b){
+        return a + b;
     }
 }
